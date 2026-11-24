@@ -51,7 +51,7 @@ The project was a **team effort**.
 [Conference publication](https://doi.org/10.1145/3773077.3815130)
 
 
-[Certificate of recognition](assets/IDC D&C participation certificate.pdf)
+[Certificate of recognition](assets/IDC_D&C_participation_certificate.pdf)
 
 
 ## Research Materials and Availability

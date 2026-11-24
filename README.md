@@ -38,6 +38,35 @@ The design emphasizes continuity of Blossom's identity across all three represen
 *Three-realm interaction concept; adapted from [the paper](https://doi.org/10.1145/3773077.3815130), CC BY 4.0, if applicable.*
 -->
 
+
+<h2>Multi-Realm Experience</h2>
+
+<table>
+  <tr>
+    <th>Digital</th>
+    <th>Augmented Reality</th>
+    <th>Physical</th>
+  </tr>
+  <tr>
+    <td width="33%">
+      <img src="assets/blossom-game.gif"
+           alt="Blossom in the digital learning experience"
+           width="250">
+    </td>
+    <td width="33%">
+      <img src="assets/blossom-ar.gif"
+           alt="Blossom in augmented reality"
+           width="250">
+    </td>
+    <td width="33%">
+      <img src="assets/blossom-physical.jpg"
+           alt="Physical Blossom social robot"
+           width="250">
+    </td>
+  </tr>
+</table>
+
+
 ## Research Contribution
 
 This work brings together child-centered design, game-based learning, augmented reality, and social robotics in a single sustainability-learning narrative. It demonstrates a working multi-realm prototype and discusses the opportunities and constraints of carrying a robot's character and interaction across media.

@@ -49,7 +49,7 @@ The design emphasizes continuity of Blossom's identity across all three represen
   </tr>
   <tr>
     <td width="33%">
-      <img src="assets/blossom-game.gif"
+      <img src="assets/blossom-game.jpg"
            alt="Blossom in the digital learning experience"
            width="250">
     </td>
@@ -59,7 +59,7 @@ The design emphasizes continuity of Blossom's identity across all three represen
            width="250">
     </td>
     <td width="33%">
-      <img src="assets/blossom-physical.jpg"
+      <img src="assets/blossom-physical.gif"
            alt="Physical Blossom social robot"
            width="250">
     </td>

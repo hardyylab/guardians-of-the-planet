@@ -16,7 +16,7 @@ The project was developed collaboratively for the IDC 2026 Research and Design C
 
 
 ![Blossom across the three realms](assets/Children.png)
-*Project overview. Adapted from [the paper](https://doi.org/10.1145/3773077.3815130), CC BY 4.0, if applicable.*
+*Project overview. Reproduced from [the paper](https://doi.org/10.1145/3773077.3815130), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Participant faces are blurred as in the published paper.*
 
 
 ## The Three Realms
@@ -32,12 +32,6 @@ The published prototype's realms were **independently functional**. The transiti
 ## System Design
 
 The design emphasizes continuity of Blossom's identity across all three representations. A shared childlike text-to-speech voice supports that continuity. In the physical realm, the soft Blossom robot expresses social gestures through its motor-driven body.
-
-<!-- Add an approved diagram from the project or a properly attributed paper figure:
-![Three-realm system overview](assets/system-overview.png)
-*Three-realm interaction concept; adapted from [the paper](https://doi.org/10.1145/3773077.3815130), CC BY 4.0, if applicable.*
--->
-
 
 <h2>Multi-Realm Experience</h2>
 
@@ -75,23 +69,21 @@ The project was a **team effort**.
 
 ## Recognition
 
-**Second Place — IDC 2026 Research and Design Challenge (team award).**
+**Second Place — IDC 2026 Research and Design Challenge (Adult Track) (team award).**
 
 [Conference publication](https://doi.org/10.1145/3773077.3815130)
 
 
-[Certificate of recognition](assets/IDC_D&C_participation_certificate.pdf)
+[Certificate of recognition](assets/idc26-rdc-2nd-place-certificate.pdf)
 
 
 ## Research Materials and Availability
 
-This repository is a **research project companion**, not a complete open-source implementation. Its purpose is to summarize the project and point to the peer-reviewed paper. Source code and project media are not distributed here unless separately cleared for public release by the relevant contributors.
-
-Any future images, video, or code will be added with appropriate collaborator permissions and child-participant privacy protections. No participant-identifying media should be published without the necessary consent.
+This repository is a research companion to the published paper. It includes selected project images and demonstrations of the three realms. Source code is not distributed here.
 
 ## Limitations and Future Work
 
-The conference paper describes a functional prototype rather than a fully autonomous, continuously connected system. The physical robot was operated using Wizard-of-Oz timing, and real-time interconnection and independent robot perception were identified as future directions. Findings should be interpreted in that prototype and playtest context.
+The conference paper describes a functional prototype rather than a fully autonomous, continuously connected system. The physical robot was operated using Wizard-of-Oz timing, and real-time interconnection and independent robot perception were identified as future directions.
 
 ## Citation
 
@@ -99,7 +91,7 @@ Please cite the published conference paper rather than this repository:
 
 ```bibtex
 @inproceedings{oyeyiola2026guardians,
-  title={“Guardians of the Planet”: A Multi-Realm Robot Bridging Learning and Real-World Sustainability for Children},
+  title={``Guardians of the Planet'': A Multi-Realm Robot Bridging Learning and Real-World Sustainability for Children},
   author={Oyeyiola, Adesoye Oluwakorede and Dadhwal, Harsh and Pasupuleti, Devasena and Castaneda, Gerardo Chavez and Knutson, Ben and Chandra, Shruti},
   booktitle={Proceedings of the 25th Annual ACM Interaction Design and Children Conference},
   pages={1367--1370},
@@ -113,6 +105,13 @@ Please cite the published conference paper rather than this repository:
 
 We acknowledge the contributions of all project collaborators, the guidance of Dr. Shruti Chandra, and the children whose ideas informed the challenge design. Details of participant involvement are described in the published paper.
 
+The physical robot is built on [Blossom](https://github.com/hrc2/blossom-public), an open-source handcrafted social robot platform developed by Michael Suguitan and Guy Hoffman at Cornell University ([Suguitan & Hoffman, 2019](https://doi.org/10.1145/3310356)).
+
 ---
 
-**Design and scientific reference:** [Oyeyiola et al., IDC 2026](https://doi.org/10.1145/3773077.3815130). The conference paper is published under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); this does **not** automatically license all future repository materials.
+## My Contribution
+
+I built and programmed the physical Blossom robot and ran workshops with children to gather their feedback on the design. I also contributed to the AR experience and the paper.
+
+
+**Design and scientific reference:** [Oyeyiola et al., IDC 2026](https://doi.org/10.1145/3773077.3815130). The conference paper is published under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Other project media in this repository are shared by the authors for illustration and are not covered by that license.

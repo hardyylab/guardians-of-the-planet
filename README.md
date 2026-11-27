@@ -2,7 +2,7 @@
 
 **ACM Interaction Design and Children (IDC 2026)** · **Research and Design Challenge — Second Place (team)**
 
-**Publication:** [Read the peer-reviewed conference paper](https://doi.org/10.1145/3773077.3815130)  
+**Publication:** [Read the conference paper](https://doi.org/10.1145/3773077.3815130)  
 **Authors:** Adesoye Oluwakorede Oyeyiola, **Harsh Dadhwal**, Devasena Pasupuleti, Gerardo Chavez Castaneda, Ben Knutson, and Shruti Chandra  
 **Venue:** *Proceedings of the 25th Annual ACM Interaction Design and Children Conference*, 2026, pp. 1367–1370.
 
@@ -107,11 +107,11 @@ We acknowledge the contributions of all project collaborators, the guidance of D
 
 The physical robot is built on [Blossom](https://github.com/hrc2/blossom-public), an open-source handcrafted social robot platform developed by Michael Suguitan and Guy Hoffman at Cornell University ([Suguitan & Hoffman, 2019](https://doi.org/10.1145/3310356)).
 
----
 
 ## My Contribution
 
 I built and programmed the physical Blossom robot and ran workshops with children to gather their feedback on the design. I also contributed to the AR experience and the paper.
 
+---
 
 **Design and scientific reference:** [Oyeyiola et al., IDC 2026](https://doi.org/10.1145/3773077.3815130). The conference paper is published under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Other project media in this repository are shared by the authors for illustration and are not covered by that license.
